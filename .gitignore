@@ -1,0 +1,7 @@
+# To ignore
+*
+
+# Except
+!.gitignore
+!*.c
+!*.txt
